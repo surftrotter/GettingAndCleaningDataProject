@@ -1,7 +1,5 @@
 # GettingAndCleaningDataProject
 
-***testing for changes sync***
-
 My Repo for the Coursera Getting and Cleaning Data Course Project
 
 This is the repo I have created to store all my documents for the Getting and Cleaning Data Course Project.
