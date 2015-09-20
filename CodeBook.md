@@ -13,6 +13,7 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 ######The Assignement######
 We were asked to create an R script to:
+
 1. Merge the training and the test sets to create one data set.
 2. Extract only the measurements on the mean and standard deviation for each measurement. 
 3. Use descriptive activity names to name the activities in the data set
@@ -23,6 +24,7 @@ We were asked to create an R script to:
 Not all the files provided by Coursera were needed to do the assignment.
 
 The relevant files were:
+
 1. README.txt: an overview of the experiment and the data 
 2. features.txt: a list of the 561 signals collected for each subject in each activity
 3. features_info.txt: a decription of the variables collected for each signal
