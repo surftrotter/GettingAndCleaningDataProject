@@ -123,4 +123,4 @@ head(tidy_data, 3)[1:5]
 tail(tidy_data, 3)[1:5]
 
 ## The tidy_data table looks in order. Go ahead and create a separate dataset for the average of each variable for each activity and each subject.
-write.table(tidy_data, "averages_data.txt", row.name=FALSE)
+write.table(tidy_data, "tidy_data.txt", row.name=FALSE)
