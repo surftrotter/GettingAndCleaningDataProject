@@ -3,7 +3,9 @@
 **This repo contains 3 files:**
 
 - This Readme.md file: a short description of this repo's content 
+
 - A Codebook.md file: a detailed description of the assignement and all the steps I have gone through to complete the assigment.
+
 - A script (run_analysis.R) doing the following:
     1. Merge the training and the test sets to create one data set.
     2. Extract only the measurements on the mean and standard deviation for each measurement. 
