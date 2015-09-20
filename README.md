@@ -1,6 +1,6 @@
 This is the repo I have created to store the files as requested by the Getting and Cleaning Data Course Project.
 
-This repo contains 3 files
+This repo contains 3 files:
 
 - This Readme.md file: a short description of this repo's content 
 - A Codebook.md file: a detailed description of the assignement and all the steps I have gone through to complete the assigment.
