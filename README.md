@@ -1,4 +1,4 @@
-#This is the repo I have created to store the files as requested by the Getting and Cleaning Data Course Project.#
+####This is the repo I have created to store the files as requested by the Getting and Cleaning Data Course Project.####
 
 **This repo contains 3 files:**
 
