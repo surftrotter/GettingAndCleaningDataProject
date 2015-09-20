@@ -32,11 +32,11 @@ The relevant files were:
 
 ######The Variables######
 For each of the 561 signals were recorded the following variables:
-mean(): Mean value
-std(): Standard deviation
-mad(): Median absolute deviation 
-max(): Largest value in array
-min(): Smallest value in array
+- mean(): Mean value
+- std(): Standard deviation
+- mad(): Median absolute deviation 
+- max(): Largest value in array
+- min(): Smallest value in array
 sma(): Signal magnitude area
 energy(): Energy measure. Sum of the squares divided by the number of values. 
 iqr(): Interquartile range 
