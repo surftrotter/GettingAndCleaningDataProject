@@ -54,8 +54,11 @@ For each of the 561 signals were recorded the following variables:
 
 ######The work done to the data######
 In the run_analysis.R file enclosed in this repo you will find a step-by-step decription of all the operation I have done to the data. In essence the following tasks were performed, as requested:
-1. the relevant files, described above, features.txt, activity_labels.txt, and the 3 files in the train and test datasets were loaded into R studio, using the read.table function
+
+1. the relevant files, described above, features.txt, activity_labels.txt, and the three files in the train and test datasets were loaded into R studio, using the read.table function
 2. the files were explored for their class and dimensions, then merged together with the appropriate decritptive labels
 3. the measurements corresponding to mean and standard devation were extracted
 4. a second, independent tidy data set was created with the average of each variable for each activity and each subject, and saved as a txt file with the write.table function as requested.
+
+#####End of the CodeBook#####
 
